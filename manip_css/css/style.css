@@ -1,0 +1,11 @@
+.poubelle{
+  display : none;
+}
+
+.restaure{
+  display: list-item;
+}
+
+.selected{
+  background-color: #88f;
+}
